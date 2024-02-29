@@ -1,0 +1,20 @@
+.list-container{
+  display: flex;
+  background-color: darkcyan;
+  color: blue;
+  padding: 16px;
+  border: 4px solid salmon;
+  justify-content: center;
+}
+.list-item{
+  background-color: burlywood;
+  border: 4px solid salmon;
+  flex: 1;
+  padding: 4px;
+}
+.header{
+  text-align: center;
+  background-color: darkcyan;
+  color: salmon;
+  border: 4px solid salmon; 
+}
